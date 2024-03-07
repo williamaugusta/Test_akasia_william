@@ -2,6 +2,7 @@
 using System.Globalization;
 using Test_Akasia.Helper.Model;
 using Test_Akasia.Helper.Service;
+using static System.Net.Mime.MediaTypeNames;
 
 namespace Test_Akasia
 {
@@ -13,14 +14,14 @@ namespace Test_Akasia
         {
             while (true)
             {
-                // Memberikan informasi yang harus dilakukan              
-                Output.Message("Welcome CRUD Application", Message.Type.Default);
-                Output.Message("1. Create Employee", Message.Type.Default);
-                Output.Message("2. Update Employee", Message.Type.Default);
-                Output.Message("3. Delete Employee", Message.Type.Default);
-                Output.Message("4. List Employees", Message.Type.Default);
-                Output.Message("5. Exit", Message.Type.Default);
-                Output.Message(" Please select number 1-5: ", Message.Type.Default);
+                // Memberikan informasi yang harus dilakukan
+                Console.WriteLine("Welcome CRUD Application");
+                Console.WriteLine("1.Create");
+                Console.WriteLine("2.Update");
+                Console.WriteLine("3.Delete");
+                Console.WriteLine("4.Show All Data");
+                Console.WriteLine("5.Exit");
+                Console.WriteLine("Please select number 1-5:");
 
                 // deklarasi variable untuk user input
                 string? strChoice;

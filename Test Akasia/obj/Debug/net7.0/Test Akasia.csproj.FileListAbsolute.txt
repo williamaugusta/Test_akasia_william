@@ -15,3 +15,20 @@ D:\JAWABAN TEST\Test Akasia\Test Akasia\obj\Debug\net7.0\Test Akasia.genruntimec
 D:\JAWABAN TEST\Test Akasia\Test Akasia\obj\Debug\net7.0\ref\Test Akasia.dll
 D:\JAWABAN TEST\Test Akasia\Test Akasia\bin\Debug\net7.0\ConsoleTables.dll
 D:\JAWABAN TEST\Test Akasia\Test Akasia\obj\Debug\net7.0\Test Akasia.csproj.CopyComplete
+D:\JAWABAN TEST\Test_akasia_william\Test Akasia\bin\Debug\net7.0\Test Akasia.exe
+D:\JAWABAN TEST\Test_akasia_william\Test Akasia\bin\Debug\net7.0\Test Akasia.deps.json
+D:\JAWABAN TEST\Test_akasia_william\Test Akasia\bin\Debug\net7.0\Test Akasia.runtimeconfig.json
+D:\JAWABAN TEST\Test_akasia_william\Test Akasia\bin\Debug\net7.0\Test Akasia.dll
+D:\JAWABAN TEST\Test_akasia_william\Test Akasia\bin\Debug\net7.0\Test Akasia.pdb
+D:\JAWABAN TEST\Test_akasia_william\Test Akasia\bin\Debug\net7.0\ConsoleTables.dll
+D:\JAWABAN TEST\Test_akasia_william\Test Akasia\obj\Debug\net7.0\Test Akasia.csproj.AssemblyReference.cache
+D:\JAWABAN TEST\Test_akasia_william\Test Akasia\obj\Debug\net7.0\Test Akasia.GeneratedMSBuildEditorConfig.editorconfig
+D:\JAWABAN TEST\Test_akasia_william\Test Akasia\obj\Debug\net7.0\Test Akasia.AssemblyInfoInputs.cache
+D:\JAWABAN TEST\Test_akasia_william\Test Akasia\obj\Debug\net7.0\Test Akasia.AssemblyInfo.cs
+D:\JAWABAN TEST\Test_akasia_william\Test Akasia\obj\Debug\net7.0\Test Akasia.csproj.CoreCompileInputs.cache
+D:\JAWABAN TEST\Test_akasia_william\Test Akasia\obj\Debug\net7.0\Test Akasia.csproj.CopyComplete
+D:\JAWABAN TEST\Test_akasia_william\Test Akasia\obj\Debug\net7.0\Test Akasia.dll
+D:\JAWABAN TEST\Test_akasia_william\Test Akasia\obj\Debug\net7.0\refint\Test Akasia.dll
+D:\JAWABAN TEST\Test_akasia_william\Test Akasia\obj\Debug\net7.0\Test Akasia.pdb
+D:\JAWABAN TEST\Test_akasia_william\Test Akasia\obj\Debug\net7.0\Test Akasia.genruntimeconfig.cache
+D:\JAWABAN TEST\Test_akasia_william\Test Akasia\obj\Debug\net7.0\ref\Test Akasia.dll

@@ -46,11 +46,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\JAWABAN TEST\\Test Akasia\\Test Akasia\\Test Akasia.csproj",
+      "projectUniqueName": "D:\\JAWABAN TEST\\Test_akasia_william\\Test Akasia\\Test Akasia.csproj",
       "projectName": "Test Akasia",
-      "projectPath": "D:\\JAWABAN TEST\\Test Akasia\\Test Akasia\\Test Akasia.csproj",
+      "projectPath": "D:\\JAWABAN TEST\\Test_akasia_william\\Test Akasia\\Test Akasia.csproj",
       "packagesPath": "C:\\Users\\WilCil\\.nuget\\packages\\",
-      "outputPath": "D:\\JAWABAN TEST\\Test Akasia\\Test Akasia\\obj\\",
+      "outputPath": "D:\\JAWABAN TEST\\Test_akasia_william\\Test Akasia\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
