@@ -215,7 +215,7 @@ namespace Test_Akasia.Helper.Service
                 DateTime birthDate = DateTime.MinValue;
                 bool isValidDate = false;
 
-                Output.Message("Enter birth date (dd/MM/yyyy): ", Model.Message.Type.Default);
+                Output.Message("Birth Date (dd/MM/yyyy): ", Model.Message.Type.Default);
                 do
                 {
                     strBirthDate = Console.ReadLine();
@@ -241,14 +241,14 @@ namespace Test_Akasia.Helper.Service
                 string fullName = string.Empty;
                 bool IsExist = false;
 
-                Output.Message("Enter full name: ", Model.Message.Type.Default);
+                Output.Message("Full Name: ", Model.Message.Type.Default);
                 do
                 {
                     IsExist = false;
                     fullName = Console.ReadLine();
                     if (string.IsNullOrEmpty(fullName))
                     {
-                        Output.Message("Full name must be filled. Please try again.", Model.Message.Type.Warning);
+                        Output.Message("Full name cannot be null. Please try again.", Model.Message.Type.Warning);
                     }
                     else if (IsDuplicate(fullName))
                     {
